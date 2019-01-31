@@ -1,7 +1,7 @@
-#README
+# README
 
 -----------------------------------------------------------------------------------
-#RU:
+# RU:
 Эта программа создана для генерации предложений на основе вероятностного случайного выбора слов из заданного текста. 
 
 Данная программа состоит из двух модулей. 
@@ -15,7 +15,7 @@
 
 Каждый из модулей имеет также аргумент -help, при вызове которого вы можете получить более подробную помощь.
 
-##Что нового в версии 2.0?
+## Что нового в версии 2.0?
 
 - Исправлены мелкие ошибки, модуль train стал работать более корректно;
 - Код стал более читабельным, добавлены новые комментарии;
@@ -23,13 +23,13 @@
 - Теперь за транспортировку контейнера между модулями отвечает мощный и невероятно быстрый алгоритм сериализации и десериализации объектов Pickle.
 
 
-##Что нового в версии 2.0.5?
+## Что нового в версии 2.0.5?
 
 - Улучшена генерация;
 - Добавлен модуль __init__.py, теперь наши технологии искуственного интеллекта стали полноценной библиотекой!
 
 -----------------------------------------------------------------------------------
-#EN:
+# EN:
 This program is designed to generate proposals based on probabilistic random selection of words from a given text.
 
 This program consists of two modules.
@@ -43,7 +43,7 @@ Specify the path to the file to which you want to display the response (optional
 
 Each of the modules also has a -help argument, when you call it you can get more help.
 
-##What's new in version 2.0?
+## What's new in version 2.0?
 
 - Fixed minor bugs, module train began to work more correctly;
 - The code has become more readable, new comments have been added;
@@ -51,7 +51,7 @@ Each of the modules also has a -help argument, when you call it you can get more
 - Now, for transporting the container between the modules, a powerful and incredibly fast algorithm Pickle responds.
 
 
-##What's new in version 2.0.5?
+## What's new in version 2.0.5?
 
 - Improved generation;
 - __init__.py module was added, and now our technologies of artificial intelligence have become a full-fledged library!
